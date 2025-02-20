@@ -4,7 +4,7 @@
 
 > ⚠️ Wichtig sowohl `Git` als auch `Node JS` müssen vorher installiert werden!
 
-Der erste Schritt zum aufsetzen des Projekts ist das Projekt zu klonen. Gib dafür folgenden befehl in deinem Terminal ein:
+Der erste Schritt zum aufsetzen des Projekts ist es das Projekt zu klonen. Gib dafür folgenden befehl in deinem Terminal ein:
 
 ```batch
 git clone https://github.com/ColinGrahmWBS/ecotech-web-app
