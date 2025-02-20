@@ -46,4 +46,4 @@ Hast du dein Item erfolgreich bearbeitet pushe alle deine Commits per Pull Reque
 
 > ⚠️⚠️⚠️ Bitte auf keinen Fall mergen! ⚠️⚠️⚠️
 
-Versuche bitte deinen Code bestmöglich zu kommentiern, sodas auch in Zukunft Projektfremde mit dem Code arbeiten können.
+> Versuche bitte deinen Code bestmöglich zu kommentiern, sodas auch in Zukunft Projektfremde mit dem Code arbeiten können.
