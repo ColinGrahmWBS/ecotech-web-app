@@ -1,0 +1,25 @@
+.sideBar {
+	position: relative;
+	width: 20rem;
+	height: calc(100vh - 8rem);
+}
+
+.sideBarMenu {
+	position: relative;
+	width: 100%;
+	height: calc(100vh - 8rem);
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	padding-top: 1rem;
+}
+
+.sideBarMenu .navLink {
+	width: calc(100% - 1rem);
+	height: 3rem;
+	background-color: var(--secondary);
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	padding-left: 1rem;
+}
