@@ -2,7 +2,7 @@
 
 ## Getting started
 
-> Wichtig sowohl `Git` als auch `Node JS` müssen vorher installiert werden!
+> ⚠️ Wichtig sowohl `Git` als auch `Node JS` müssen vorher installiert werden!
 
 Der erste Schritt zum aufsetzen des Projekts ist das Projekt zu klonen. Gib dafür folgenden befehl in deinem Terminal ein:
 
@@ -42,6 +42,8 @@ Oder:
 bug/0145-something-isnt-working
 ```
 
-Hast du dein Item erfolgreich bearbeitet pushe alle deine Commits per Pull Request. Bitte auf keinen Fall mergen!
+Hast du dein Item erfolgreich bearbeitet pushe alle deine Commits per Pull Request.
+
+> ⚠️⚠️⚠️ Bitte auf keinen Fall mergen! ⚠️⚠️⚠️
 
 > Versuche bitte deinen Code bestmöglich zu kommentiern, sodas auch in Zukunft Projektfremde mit dem Code arbeiten können.
