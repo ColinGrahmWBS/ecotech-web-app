@@ -1,4 +1,4 @@
-import styles from "./dashboardPage.module.css";
+import styles from "../dashboard/dashboardPage.module.css";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 import Sidebar from "../components/sideBar/Sidebar";
@@ -12,7 +12,7 @@ export default function Dashboard() {
 					<div className={styles.dashboardContent}>
 						<Sidebar></Sidebar>
 						<div className={styles.toPourList}>
-							<h1>Zu gießende Pflanzen</h1>
+							<h1>4. Obergeschoss</h1>
 						</div>
 					</div>
 				</div>
